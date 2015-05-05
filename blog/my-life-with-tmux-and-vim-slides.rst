@@ -10,7 +10,6 @@ My life with tmux and vim slides
 =============================================================
 
 :lang: en
-:tags:  Tag 1|tag-1, Tag 2|tag-2
 :tags: Talks|talks, vim|vim, tmux|tmux, FLOSS|floss
 :excerpt:
     Talk regarding tmux, vim, my workflow and favorite plugins,
