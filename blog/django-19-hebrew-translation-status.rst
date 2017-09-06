@@ -52,7 +52,7 @@ Left in the cold, yet again, for lack of time:
 :lang: he
 :tags:  קוד פתוח|floss, Django, עברית|hebrew, תרגום|translation
 :excerpt:
-    התחלתי לתרגם עמוק לתוך הקפאת המחרוזות של 1.9. נכון ל-25 בנובמבר הצרגום העברי
+    התחלתי לתרגם עמוק לתוך הקפאת המחרוזות של 1.9. נכון ל-25 בנובמבר התרגום העברי
     של `django-core`, `django-formtools`, `django-contrib-comments`
     ו־`django-people` עומד על 100%.
 

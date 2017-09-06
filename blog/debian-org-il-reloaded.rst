@@ -12,7 +12,7 @@ debian.org.il reloaded
 :lang: en
 :tags:  FLOSS|floss, Django, Debian, Design
 :excerpt:
-    debian.org.il was a part of my big technical debt, python 2.6 on Django
+    debian.org.il was a part of my big technical debt, Python 2.6 and Django
     pre-1.0.
 
 `debian.org.il`_ was a part of my big technical debt. A simple site built with
