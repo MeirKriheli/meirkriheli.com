@@ -51,7 +51,7 @@ Left in the cold, yet again, for lack of time:
     לאחר שפספסתי את 1.10 התחלתי לתרגם עמוק לתוך הקפאת המחרוזות של 1.11.
     נכון לראשון באפריל התרגום העברי
     של `django-core`, `django-formtools`, `django-contrib-comments`
-    ו־`django-people` עומד על 103%.
+    ו־`django-people` עומד על 93%.
 
     נשארו שוב בחוץ: `django-localflavor` ו־`django-docs`.
 
